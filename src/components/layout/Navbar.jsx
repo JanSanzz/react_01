@@ -17,6 +17,7 @@ function Navbar() {
                     <NavLink to="contact" className="text-white" activeClassName="text-red-500">Contact</NavLink>
                     <NavLink to="" className="text-white" activeClassName="text-red-500">Blog</NavLink>
                     <NavLink to="about" className="text-white" activeClassName="text-red-500">Service</NavLink>
+                    <NavLink to="about" className="text-white" activeClassName="text-red-500">Service</NavLink>
                 </ul>
             </div>
             <div className="space-x-2">
